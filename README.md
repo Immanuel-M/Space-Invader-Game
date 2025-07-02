@@ -30,7 +30,7 @@ Boom—game window pops and you’re dodging lasers.
 
 | Gameplay | Game Over |
 | -------- | --------- |
-| ![Play](images/Gameplay.png) | ![Over](images/GameOver.png) |
+| ![Play](images/Gameplay.jpg) | ![Over](images/GameOver.jpg) |
 
 ---
 
