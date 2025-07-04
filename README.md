@@ -45,7 +45,7 @@ Boom—game window pops and you’re dodging lasers.
 ## Lessons & Next Steps
 * Wrangled real-time input without spaghetti code  
 * Practiced sprite groups / collision checks  
-* Next up? Some code refactoring, power-ups, and maybe a tiny boss fight—because why not.
+* Next up? Some code refactoring, power-ups, and maybe a tiny boss fight; because why not.
 
 ---
 
