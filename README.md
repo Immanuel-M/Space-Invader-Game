@@ -2,7 +2,7 @@
 
 ### What’s This?
 Remember those arcade cabinets that ate your quarters growing up?  
-I rebuilt that vibe in Python. Move the tiny ship, blast the bad guys, chase a high score—simple, sweaty-palms fun.
+I rebuilt that vibe in Python. Move the tiny ship, blast the bad guys, chase a high score, simple and fun!
 
 ---
 
@@ -45,7 +45,7 @@ Boom—game window pops and you’re dodging lasers.
 ## Lessons & Next Steps
 * Wrangled real-time input without spaghetti code  
 * Practiced sprite groups / collision checks  
-* Next up? Sound FX, power-ups, and maybe a tiny boss fight—because why not.
+* Next up? Some code refactoring, power-ups, and maybe a tiny boss fight—because why not.
 
 ---
 
