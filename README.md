@@ -15,7 +15,7 @@ I wanted a quick way to flex loops, collision logic, and real-time input without
 1. Clone the repo  
 2. `pip install pygame`  
 3. `python space_invaders.py`  
-Boom—game window pops and you’re dodging lasers.
+Boom! Game window pops and you’re dodging lasers.
 
 ### Controls
 | Key            | Action            |
@@ -50,4 +50,4 @@ Boom—game window pops and you’re dodging lasers.
 ---
 
 ## License
-MIT—fork it, remix it, have fun.
+MIT - fork it, remix it, have fun.
